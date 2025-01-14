@@ -16,7 +16,7 @@ I'm a passionate **Front-End Developer** with a love for creating beautiful, res
 ### Basics:
 - **Languages:** C++, Java, Python
 
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lg2game&layout=compact&theme=radical)
+### ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lg2game&layout=compact&theme=radical)
 
 ---
 
