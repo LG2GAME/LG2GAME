@@ -20,7 +20,7 @@ I'm a passionate **Front-End Developer** with a love for creating beautiful, res
 
 ---
 
-- **"Code is like humor. When you have to explain it, it’s bad."** — Cory House  
+**"Code is like humor. When you have to explain it, it’s bad."** — Cory House  
 
 ---
 
