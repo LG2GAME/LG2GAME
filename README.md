@@ -24,7 +24,7 @@ I'm a passionate **Front-End Developer** with a love for creating beautiful, res
 
 ## 📬 Let's Connect!
 
-- 💬 Discord: [lg2game](https://discord.com/users/480319541516173312)   
+- 💬 Discord: [LG2GAME](https://discord.com/users/480319541516173312)   
 
 ---
 
