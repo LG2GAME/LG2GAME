@@ -4,7 +4,7 @@ I'm a passionate **Front-End Developer** with a love for creating beautiful, res
 ---
 
 ## 🛠 Skills
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lg2game&show_icons=true&theme=radical)
 
 ### Front-End Expertise:
 - **Languages:** HTML, CSS, JavaScript  
