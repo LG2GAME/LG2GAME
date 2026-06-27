@@ -1,4 +1,4 @@
-**Arkadiusz.** • [O MNIE](#o-mnie) • [JAK PRACUJĘ](#jak-pracuje) • [OFERTA](#co-oferuję)
+**Arkadiusz.** • [O MNIE](#o-mnie) • [FILOZOFIA](#filozofia) • [TECHNOLOGIE](#technologie) • [JAK PRACUJĘ](#jak-pracuje) • [OFERTA](#co-oferuję) • [PROJEKTY](#wybrane-projekty) • [KONTAKT](#kontakt)
 
 ---
 
