@@ -106,8 +106,8 @@ Najważniejsze elementy:
 - Optymalizacja wydajności
 - Zaawansowane SEO
 
-[Live Demo ➔](https://vercel.com)
-[Repozytorium ➔](https://github.com)
+[Live Demo ➔]([https://vercel.com](https://detailing-studio-xi.vercel.app/))
+[Repozytorium ➔]([https://github.com](https://github.com/LG2GAME/detailing-studio))
 
 
 ---
@@ -119,7 +119,7 @@ Najważniejsze elementy:
 **Napisz do mnie** — chętnie porozmawiam o projekcie i zobaczę, jak mogę pomóc.
 
 [arkadiusz.builds@gmail.com](mailto:arkadiusz.builds@gmail.com)
-[LinkedIn ↗](https://linkedin.com) • [GitHub ↗](https://github.com/LG2GAME) • [Discord](https://Discord.com)
+[GitHub ↗](https://github.com/LG2GAME)
 
 ---
 
