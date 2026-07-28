@@ -57,42 +57,17 @@ Lighthouse • Core Web Vitals • Responsive Design • SEO
 ## Od pomysłu do gotowej strony.
 
 
-<div>
-<div style="display: flex; gap: 18px;">
-  <div style="width: 42px; height: 42px; border: 3px solid #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0; font-size: 15px;">01</div>
-  <div>
-    <strong>Research i Strategia</strong><br>
-    <span>Zaczynam od zrozumienia Twojej firmy, klientów i konkurencji. Dzięki temu projekt powstaje w oparciu o cele biznesowe, a nie przypadkowe pomysły.</span>
-  </div>
-</div>
-<div style="margin-left: 20px; height: 38px; border-left: 3px solid #fff;"></div>
+1. **Research i Strategia**  
+   Zaczynam od zrozumienia Twojej firmy, klientów i konkurencji. Dzięki temu projekt powstaje w oparciu o cele biznesowe, a nie przypadkowe pomysły.
 
-<div style="display: flex; gap: 18px;">
-  <div style="width: 42px; height: 42px; border: 3px solid #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0; font-size: 15px;">02</div>
-  <div>
-    <strong>Projekt graficzny</strong><br>
-    <span>Projekt powstaje w Figmie. Przed rozpoczęciem programowania możesz zobaczyć całą stronę, zgłosić uwagi i zaakceptować kierunek.</span>
-  </div>
-</div>
-<div style="margin-left: 20px; height: 38px; border-left: 3px solid #fff;"></div>
+2. **Projekt graficzny**  
+   Projekt powstaje w Figmie. Przed rozpoczęciem programowania możesz zobaczyć całą stronę, zgłosić uwagi i zaakceptować kierunek.
 
-<div style="display: flex; gap: 18px;">
-  <div style="width: 42px; height: 42px; border: 3px solid #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0; font-size: 15px;">03</div>
-  <div>
-    <strong>Programowanie</strong><br>
-    <span>Zamieniam projekt w szybką, responsywną stronę. Dbam o czytelny kod, wydajność i poprawne działanie na wszystkich urządzeniach.</span>
-  </div>
-</div>
-<div style="margin-left: 20px; height: 38px; border-left: 3px solid #fff;"></div>
+3. **Programowanie**  
+   Zamieniam projekt w szybką, responsywną stronę. Dbam o czytelny kod, wydajność i poprawne działanie na wszystkich urządzeniach.
 
-<div style="display: flex; gap: 18px;">
-  <div style="width: 42px; height: 42px; border: 3px solid #fff; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0; font-size: 15px;">04</div>
-  <div>
-    <strong>Wdrożenie i Przekazanie</strong><br>
-    <span>Publikuję stronę na docelowej domenie, konfiguruję SSL i przekazuję kompletny projekt wraz z instrukcją oraz okresem na drobne poprawki.</span>
-  </div>
-</div>
-</div>
+4. **Wdrożenie i Przekazanie**  
+   Publikuję stronę na docelowej domenie, konfiguruję SSL i przekazuję kompletny projekt wraz z instrukcją oraz okresem na drobne poprawki.
 
 
 ---
@@ -143,7 +118,7 @@ Najważniejsze elementy:
 
 **Napisz do mnie** — chętnie porozmawiam o projekcie i zobaczę, jak mogę pomóc.
 
-[twoj@email@gmail.com](mailto:twoj@email@gmail.com)
+[arkadiusz.builds@gmail.com](mailto:arkadiusz.builds@gmail.com)
 [LinkedIn ↗](https://linkedin.com) • [GitHub ↗](https://github.com/LG2GAME) • [Discord](https://Discord.com)
 
 ---
